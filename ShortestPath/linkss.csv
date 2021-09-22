@@ -1,0 +1,937 @@
+Albany NY,Rochester NY,226
+Albany NY,Buffalo NY,289
+Albany NY,New York City NY,150
+Albany NY,Montpelier VT,158
+Albany NY,Concord NH,150
+Albany NY,Boston MA,169
+Albany NY,Providence RI,163
+Albany NY,Hartford CT,113
+Albany NY,Harrisburg PA,293
+Albany NY,Trenton NJ,195
+Albany NY,Philadelphia PA,233
+Albuquerque NM,Santa Fe NM,64
+Albuquerque NM,Las Cruces NM,223
+Albuquerque NM,Mesa AZ,405
+Albuquerque NM,Flagstaff AZ,322
+Albuquerque NM,Tucson AZ,449
+Albuquerque NM,Odessa TX,402
+Albuquerque NM,Amarillo TX,288
+Amarillo TX,El Paso TX,438
+Amarillo TX,Las Cruces NM,416
+Amarillo TX,Albuquerque NM,288
+Amarillo TX,Santa Fe NM,279
+Amarillo TX,Lubbock TX,124
+Annapolis MD,Dover DE,65
+Annapolis MD,Philadelphia PA,125
+Annapolis MD,Harrisburg PA,112
+Annapolis MD,Pittsburgh PA,269
+Annapolis MD,Washington DC,32
+Annapolis MD,Richmond VA,135
+Annapolis MD,Norfolk VA,208
+Atlanta GA,Charlotte NC,245
+Atlanta GA,Columbia SC,215
+Atlanta GA,Myrtle Beach SC,140
+Atlanta GA,Charleston SC,299
+Atlanta GA,Savannah GA,248
+Atlanta GA,Columbus GA,107
+Atlanta GA,Jacksonville FL,346
+Atlanta GA,Tallahassee FL,272
+Atlanta GA,Montgomery AL,161
+Atlanta GA,Birmingham AL,147
+Atlanta GA,Nashville TN,250
+Atlanta GA,Knoxville TN,214
+Augusta ME,Portland ME,56
+Augusta ME,Montpelier VT,180
+Austin TX,Houston TX,165
+Austin TX,San Antonio TX,80
+Austin TX,Dallas TX,195
+Austin TX,Fort Worth TX,189
+Austin TX,Midland TX,317
+Austin TX,Lubbock TX,380
+Austin TX,El Paso TX,576
+Baton Rouge LA,Little Rock AR,343
+Baton Rouge LA,Jackson MS,159
+Baton Rouge LA,Biloxi MS,150
+Baton Rouge LA,New Orleans LA,81
+Baton Rouge LA,Shreveport LA,247
+Baton Rouge LA,Houston TX,268
+Beverly Hills CA,Santa Monica CA,9
+Beverly Hills CA,Sacramento CA,383
+Beverly Hills CA,San Jose CA,338
+Beverly Hills CA,Fresno CA,217
+Beverly Hills CA,Los Angeles CA,13
+Billings MT,Helena MT,233
+Billings MT,Casper WY,275
+Billings MT,Idaho Falls ID,337
+Billings MT,Bismarck ND,415
+Biloxi MS,Jackson MS,165
+Biloxi MS,Mobile AL,63
+Biloxi MS,New Orleans LA,93
+Biloxi MS,Baton Rouge LA,150
+Birmingham AL,Atlanta GA,147
+Birmingham AL,Columbus GA,142
+Birmingham AL,Montgomery AL,95
+Birmingham AL,Mobile AL,259
+Birmingham AL,Pensacola FL,253
+Birmingham AL,Jackson MS,237
+Birmingham AL,Memphis TN,245
+Birmingham AL,Nashville TN,192
+Birmingham AL,Knoxville TN,257
+Bismarck ND,Fargo ND,196
+Bismarck ND,Grand Forks ND,253
+Bismarck ND,Billings MT,415
+Boise ID,Idaho Falls ID,280
+Boise ID,Coeur d'Alene ID,458
+Boise ID,Portland OR,436
+Boise ID,Eugene OR,452
+Boise ID,Missoula MT,364
+Boston MA,Montpelier VT,180
+Boston MA,Providence RI,51
+Boston MA,Concord NH,70
+Boston MA,Hartford CT,100
+Boston MA,Albany NY,169
+Brownsville TX,Laredo TX,208
+Brownsville TX,Corpus Christi TX,161
+Buffalo NY,Erie PA,92
+Buffalo NY,Rochester NY,77
+Buffalo NY,Albany NY,289
+Buffalo NY,New York City NY,374
+Buffalo NY,Pittsburgh PA,215
+Buffalo NY,Harrisburg PA,280
+Buffalo NY,Philadelphia PA,360
+Buffalo NY,Trenton NJ,390
+Carson City NV,Reno NV,32
+Carson City NV,Virginia City NV,15
+Carson City NV,Redding CA,227
+Carson City NV,Sacramento CA,130
+Carson City NV,Fresno CA,268
+Casper WY,Cheyenne WY,178
+Casper WY,Idaho Falls ID,367
+Casper WY,Ogden UT,402
+Casper WY,Salt Lake City UT,407
+Casper WY,Scottsbluff NE,176
+Casper WY,Rapid City SD,254
+Casper WY,Billings MT,275
+Cedar Rapids IA,Sioux Falls SD,350
+Cedar Rapids IA,Rochester MN,169
+Cedar Rapids IA,Madison WI,164
+Cedar Rapids IA,Chicago IL,246
+Cedar Rapids IA,Springfield  IL,254
+Cedar Rapids IA,Jefferson City MO,270
+Cedar Rapids IA,Kansas City MO,320
+Cedar Rapids IA,Des Moines IA,121
+Charleston SC,Raleigh NC,280
+Charleston SC,Greensboro NC,280
+Charleston SC,Charlotte NC,209
+Charleston SC,Columbia SC,116
+Charleston SC,Myrtle Beach SC,96
+Charleston SC,Atlanta GA,299
+Charleston SC,Columbus GA,350
+Charleston SC,Savannah GA,108
+Charleston WV,Pittsburgh PA,228
+Charleston WV,Harrisburg PA,365
+Charleston WV,Washington DC,340
+Charleston WV,Richmond VA,316
+Charleston WV,Roanoke VA,180
+Charleston WV,Greensboro NC,244
+Charleston WV,Charlotte NC,264
+Charleston WV,Knoxville TN,305
+Charleston WV,Frankfort KY,197
+Charleston WV,Cincinnati OH,197
+Charleston WV,Columbus OH,163
+Charlotte NC,Roanoke VA,185
+Charlotte NC,Greensboro NC,92
+Charlotte NC,Raleigh NC,160
+Charlotte NC,Myrtle Beach SC,176
+Charlotte NC,Columbia SC,93
+Charlotte NC,Charleston SC,209
+Charlotte NC,Atlanta GA,245
+Charlotte NC,Knoxville TN,231
+Charlotte NC,Frankfort KY,425
+Charlotte NC,Charleston WV,264
+Cheyenne WY,Casper WY,178
+Cheyenne WY,Salt Lake City UT,439
+Cheyenne WY,Ogden UT,434
+Cheyenne WY,Denver CO,100
+Cheyenne WY,Scottsbluff NE,99
+Chicago IL,Madison WI,147
+Chicago IL,Milwaukee WI,92
+Chicago IL,Lansing MI,217
+Chicago IL,Indianapolis IN,182
+Chicago IL,Springfield  IL,203
+Chicago IL,Cedar Rapids IA,246
+Cincinnati OH,Columbus OH,107
+Cincinnati OH,Charleston WV,197
+Cincinnati OH,Frankfort KY,86
+Cincinnati OH,Louisville KY,106
+Cincinnati OH,Indianapolis IN,112
+Cincinnati OH,Lansing MI,320
+Cincinnati OH,Detroit MI,263
+Coeur d'Alene ID,Boise ID,458
+Coeur d'Alene ID,Idaho Falls ID,477
+Coeur d'Alene ID,Spokane WA,34
+Coeur d'Alene ID,Helena MT,277
+Coeur d'Alene ID,Missoula MT,165
+Colorado Springs CO,Denver CO,71
+Colorado Springs CO,Santa Fe NM,322
+Colorado Springs CO,Wichita KS,490
+Colorado Springs CO,Manhattan KS,465
+Columbia SC,Raleigh NC,210
+Columbia SC,Greensboro NC,185
+Columbia SC,Charlotte NC,93
+Columbia SC,Myrtle Beach SC,140
+Columbia SC,Charleston SC,116
+Columbia SC,Atlanta GA,215
+Columbia SC,Savannah GA,155
+Columbia SC,Columbus GA,295
+Columbia SC,Knoxville TN,263
+Columbus GA,Columbia SC,295
+Columbus GA,Myrtle Beach SC,465
+Columbus GA,Charleston SC,350
+Columbus GA,Atlanta GA,107
+Columbus GA,Savannah GA,250
+Columbus GA,Jacksonville FL,290
+Columbus GA,Tallahassee FL,168
+Columbus GA,Pensacola FL,245
+Columbus GA,Montgomery AL,83
+Columbus GA,Birmingham AL,142
+Columbus OH,Pittsburgh PA,185
+Columbus OH,Erie PA,238
+Columbus OH,Washington DC,415
+Columbus OH,Richmond VA,477
+Columbus OH,Charleston WV,163
+Columbus OH,Cincinnati OH,107
+Columbus OH,Frankfort KY,191
+Columbus OH,Indianapolis IN,176
+Columbus OH,Detroit MI,203
+Columbus OH,Lansing MI,256
+Columbus OH,Chicago IL,325
+Concord NH,Portland ME,110
+Concord NH,Montpelier VT,120
+Concord NH,Boston MA,70
+Concord NH,Albany NY,150
+Concord NH,Providence RI,116
+Concord NH,Hartford CT,143
+Concord NH,Rochester NY,371
+Corpus Christi TX,San Antonio TX,143
+Corpus Christi TX,Houston TX,209
+Corpus Christi TX,Laredo TX,151
+Corpus Christi TX,Brownsville TX,161
+Dallas TX,Fort Worth TX,32
+Dallas TX,Tulsa OK,258
+Dallas TX,Oklahoma City OK,206
+Dallas TX,Shreveport LA,188
+Dallas TX,Houston TX,239
+Denver CO,Colorado Springs CO,71
+Denver CO,Grand Junction CO,243
+Denver CO,Salt Lake City UT,517
+Denver CO,Wichita KS,519
+Denver CO,Manhattan KS,540
+Denver CO,Scottsbluff NE,197
+Denver CO,Cheyenne WY,100
+Des Moines IA,Sioux Falls SD,294
+Des Moines IA,Rochester MN,210
+Des Moines IA,Cedar Rapids IA,121
+Des Moines IA,Springfield  IL,298
+Des Moines IA,St.Louis MO,349
+Des Moines IA,Jefferson City MO,255
+Des Moines IA,Kansas City MO,193
+Des Moines IA,Topeka KS,255
+Des Moines IA,Manhattan KS,314
+Des Moines IA,Omaha NE,134
+Des Moines IA,Lincoln NE,189
+Detroit MI,Escanaba MI,435
+Detroit MI,Lansing MI,90
+Detroit MI,Columbus OH,203
+Detroit MI,Cincinnati OH,263
+Detroit MI,Indianapolis IN,286
+Dover DE,Philadelphia PA,82
+Dover DE,Harrisburg PA,130
+Dover DE,Pittsburgh PA,325
+Dover DE,Annapolis MD,65
+Dover DE,Washington DC,93
+Dover DE,Richmond VA,200
+Duluth MN,Fargo ND,239
+Duluth MN,Grand Forks ND,262
+Duluth MN,Pierre SD,504
+Duluth MN,Minneapolis MN,154
+Duluth MN,St. Paul MN,151
+Duluth MN,Escanaba MI,280
+Duluth MN,Green Bay WI,326
+Duluth MN,Madison WI,329
+El Paso TX,Las Cruces NM,46
+El Paso TX,Austin TX,567
+El Paso TX,Laredo TX,606
+El Paso TX,Odessa TX,284
+El Paso TX,Lubbock TX,347
+Erie PA,Buffalo NY,92
+Erie PA,Rochester NY,162
+Erie PA,New York City NY,432
+Erie PA,Philadelphia PA,400
+Erie PA,Harrisburg PA,295
+Erie PA,Pittsburgh PA,128
+Erie PA,Columbus OH,238
+Erie PA,Trenton NJ,433
+Escanaba MI,Lansing MI,376
+Escanaba MI,Detroit MI,435
+Escanaba MI,Green Bay WI,111
+Escanaba MI,Duluth MN,280
+Escanaba MI,St. Paul MN,360
+Escanaba MI,Rochester MN,375
+Eugene OR,Medford OR,168
+Eugene OR,Boise ID,452
+Eugene OR,Salem OR,66
+Eugene OR,Portland OR,110
+Eureka CA,Redding CA,147
+Eureka CA,San Francisci CA,271
+Eureka CA,Oakland CA,276
+Eureka CA,Medford OR,139
+Eureka CA,Sacramento CA,289
+Fargo ND,Bismarck ND,196
+Fargo ND,Grand Forks ND,81
+Fargo ND,Duluth MN,239
+Fargo ND,Minneapolis MN,235
+Fargo ND,Pierre SD,333
+Fargo ND,Sioux Falls SD,244
+Flagstaff AZ,Mesa AZ,161
+Flagstaff AZ,Yuma AZ,318
+Flagstaff AZ,Henderson NV,238
+Flagstaff AZ,Salt Lake City UT,515
+Flagstaff AZ,Grand Junction CO,436
+Flagstaff AZ,Albuquerque NM,322
+Flagstaff AZ,Las Cruces NM,433
+Flagstaff AZ,Phoenix AZ,144
+Fort Lauderdale FL,Orlando FL,210
+Fort Lauderdale FL,Tampa FL,247
+Fort Lauderdale FL,Fort Myers FL,140
+Fort Lauderdale FL,Miami FL,30
+Fort Myers FL,Orlando FL,159
+Fort Myers FL,Tampa FL,125
+Fort Myers FL,Fort Lauderdale FL,140
+Fort Myers FL,Miami FL,152
+Fort Smith AR,Little Rock AR,159
+Fort Smith AR,Memphis TN,286
+Fort Smith AR,Springfield MO,174
+Fort Smith AR,Shreveport LA,261
+Fort Smith AR,Dallas TX,270
+Fort Smith AR,Oklahoma City OK,183
+Fort Smith AR,Tulsa OK,118
+Fort Worth TX,Midland TX,299
+Fort Worth TX,Lubbock TX,314
+Fort Worth TX,Amarillo TX,341
+Fort Worth TX,Oklahoma City OK,200
+Fort Worth TX,Austin TX,189
+Fort Worth TX,Houston TX,262
+Fort Worth TX,Dallas TX,262
+Frankfort KY,Charleston WV,197
+Frankfort KY,Roanoke VA,380
+Frankfort KY,Greensboro NC,425
+Frankfort KY,Charlotte NC,425
+Frankfort KY,Nashville TN,209
+Frankfort KY,Knoxville TN,420
+Frankfort KY,Louisville KY,54
+Frankfort KY,Indianapolis IN,165
+Frankfort KY,Cincinnati OH,86
+Frankfort KY,Columbus OH,191
+Fresno CA,Los Angeles CA,219
+Fresno CA,Oakland CA,175
+Fresno CA,Santa Monica CA,219
+Fresno CA,Beverly Hills CA,217
+Fresno CA,Carson City NV,268
+Fresno CA,Las Vegas NV,395
+Fresno CA,Sacramento CA,169
+Fresno CA,San Jose CA,150
+Grand Forks ND,Bismarck ND,253
+Grand Forks ND,Fargo ND,81
+Grand Junction CO,Denver CO,243
+Grand Junction CO,Santa Fe NM,384
+Grand Junction CO,Flagstaff AZ,436
+Green Bay WI,Madison WI,138
+Green Bay WI,Milwaukee WI,117
+Green Bay WI,Escanaba MI,111
+Green Bay WI,Rochester MN,267
+Green Bay WI,St. Paul MN,271
+Green Bay WI,Duluth MN,326
+Greensboro NC,Richmond VA,190
+Greensboro NC,Norfolk VA,236
+Greensboro NC,Roanoke VA,105
+Greensboro NC,Raleigh NC,77
+Greensboro NC,Charlotte NC,92
+Greensboro NC,Charleston WV,244
+Greensboro NC,Frankfort KY,425
+Greensboro NC,Knoxville TN,275
+Greensboro NC,Myrtle Beach SC,195
+Greensboro NC,Charleston SC,280
+Greensboro NC,Columbia SC,185
+Harrisburg PA,Erie PA,295
+Harrisburg PA,Pittsburgh PA,203
+Harrisburg PA,Philadelphia PA,105
+Harrisburg PA,Trenton NJ,125
+Harrisburg PA,New York City NY,171
+Harrisburg PA,Albany NY,293
+Harrisburg PA,Buffalo NY,280
+Harrisburg PA,Rochester NY,260
+Harrisburg PA,Hartford CT,292
+Harrisburg PA,Dover DE,130
+Harrisburg PA,Washington DC,120
+Harrisburg PA,Annapolis MD,112
+Harrisburg PA,Charleston WV,365
+Harrisburg PA,Roanoke VA,295
+Hartford CT,Boston MA,100
+Hartford CT,Albany NY,113
+Hartford CT,Providence RI,73
+Hartford CT,Concord NH,143
+Hartford CT,Montpelier VT,199
+Hartford CT,New York City NY,118
+Hartford CT,Buffalo NY,397
+Hartford CT,Rochester NY,335
+Hartford CT,Harrisburg PA,292
+Hartford CT,Trenton NJ,181
+Helena MT,Billings MT,233
+Helena MT,Missoula MT,113
+Helena MT,Idaho Falls ID,272
+Helena MT,Coeur d'Alene ID,277
+Henderson NV,Las Vegas NV,16
+Henderson NV,Phoenix AZ,285
+Houston TX,Dallas TX,239
+Houston TX,Fort Worth TX,262
+Houston TX,Lubbock TX,516
+Houston TX,New Orleans LA,348
+Houston TX,Austin TX,165
+Houston TX,Laredo TX,315
+Houston TX,Corpus Christi TX,209
+Idaho Falls ID,Boise ID,280
+Idaho Falls ID,Coeur d'Alene ID,477
+Idaho Falls ID,Helena MT,272
+Idaho Falls ID,Missoula MT,312
+Idaho Falls ID,Billings MT,337
+Idaho Falls ID,Casper WY,367
+Idaho Falls ID,Ogden UT,179
+Indianapolis IN,Columbus OH,176
+Indianapolis IN,Cincinnati OH,112
+Indianapolis IN,Frankfort KY,165
+Indianapolis IN,Louisville KY,114
+Indianapolis IN,St.Louis MO,242
+Indianapolis IN,Springfield  IL,209
+Indianapolis IN,Chicago IL,182
+Indianapolis IN,Lansing MI,254
+Indianapolis IN,Detroit MI,286
+Jackson MS,Montgomery AL,247
+Jackson MS,Birmingham AL,237
+Jackson MS,Mobile AL,188
+Jackson MS,Biloxi MS,165
+Jackson MS,New Orleans LA,188
+Jackson MS,Baton Rouge LA,159
+Jackson MS,Shreveport LA,217
+Jackson MS,Little Rock AR,260
+Jackson MS,Memphis TN,210
+Jacksonville FL,Atlanta GA,346
+Jacksonville FL,Savannah GA,140
+Jacksonville FL,Columbus GA,290
+Jacksonville FL,Tallahassee FL,166
+Jacksonville FL,Orlando FL,140
+Jacksonville FL,Tampa FL,200
+Jefferson City MO,Kansas City MO,157
+Jefferson City MO,Springfield MO,132
+Jefferson City MO,Springfield  IL,193
+Jefferson City MO,St.Louis MO,130
+Jefferson City MO,Des Moines IA,255
+Jefferson City MO,Wichita KS,328
+Kansas City MO,Lincoln NE,195
+Kansas City MO,Omaha NE,185
+Kansas City MO,Des Moines IA,193
+Kansas City MO,Springfield  IL,298
+Kansas City MO,Jefferson City MO,157
+Kansas City MO,Springfield MO,166
+Kansas City MO,Topeka KS,63
+Knoxville TN,Charleston WV,305
+Knoxville TN,Roanoke VA,260
+Knoxville TN,Greensboro NC,275
+Knoxville TN,Charlotte NC,231
+Knoxville TN,Columbia SC,263
+Knoxville TN,Atlanta GA,214
+Knoxville TN,Birmingham AL,257
+Knoxville TN,Memphis TN,391
+Knoxville TN,Nashville TN,180
+Knoxville TN,Louisville KY,240
+Knoxville TN,Frankfort KY,197
+Lansing MI,Escanaba MI,376
+Lansing MI,Detroit MI,90
+Lansing MI,Columbus OH,256
+Lansing MI,Cincinnati OH,320
+Lansing MI,Indianapolis IN,255
+Lansing MI,Chicago IL,217
+Laredo TX,Corpus Christi TX,151
+Laredo TX,San Antonio TX,157
+Laredo TX,Houston TX,315
+Laredo TX,Midland TX,409
+Laredo TX,Lubbock TX,503
+Laredo TX,El Paso TX,606
+Laredo TX,Brownsville TX,208
+Las Cruces NM,Albuquerque NM,223
+Las Cruces NM,Flagstaff AZ,433
+Las Cruces NM,Tucson AZ,277
+Las Vegas NV,Virginia City NV,422
+Las Vegas NV,Henderson NV,16
+Las Vegas NV,Fresno CA,395
+Las Vegas NV,Riverside CA,395
+Las Vegas NV,Reno NV,439
+Lincoln NE,Omaha NE,59
+Lincoln NE,Scottsbluff NE,398
+Lincoln NE,Pierre SD,393
+Lincoln NE,Sioux Falls SD,213
+Lincoln NE,Wichita KS,275
+Little Rock AR,Springfield MO,218
+Little Rock AR,St.Louis MO,347
+Little Rock AR,Memphis TN,137
+Little Rock AR,Fort Smith AR,159
+Little Rock AR,Jackson MS,260
+Little Rock AR,Shreveport LA,214
+Little Rock AR,Baton Rouge LA,343
+Los Angeles CA,San Diego CA,120
+Los Angeles CA,Riverside CA,54
+Los Angeles CA,Santa Monica CA,16
+Los Angeles CA,Beverly Hills CA,13
+Los Angeles CA,Sacramento CA,384
+Los Angeles CA,San Jose CA,48
+Los Angeles CA,Fresno CA,219
+Louisville KY,Indianapolis IN,114
+Louisville KY,Cincinnati OH,106
+Louisville KY,Frankfort KY,54
+Louisville KY,Knoxville TN,197
+Louisville KY,Nashville TN,209
+Louisville KY,St.Louis MO,262
+Louisville KY,Springfield MO,477
+Lubbock TX,Amarillo TX,124
+Lubbock TX,El Paso TX,347
+Lubbock TX,Santa Fe NM,312
+Lubbock TX,Albuquerque NM,322
+Lubbock TX,Las Cruces NM,354
+Lubbock TX,Austin TX,380
+Lubbock TX,Laredo TX,503
+Lubbock TX,Houston TX,516
+Lubbock TX,Fort Worth TX,314
+Lubbock TX,Midland TX,119
+Madison WI,Green Bay WI,138
+Madison WI,Milwaukee WI,79
+Madison WI,Chicago IL,147
+Madison WI,Springfield  IL,265
+Madison WI,Cedar Rapids IA,164
+Madison WI,Rochester MN,205
+Madison WI,St. Paul MN,262
+Madison WI,Duluth MN,329
+Manhattan KS,Topeka KS,58
+Manhattan KS,Wichita KS,130
+Manhattan KS,Colorado Springs CO,465
+Manhattan KS,Denver CO,540
+Manhattan KS,Wichita KS,130
+Medford OR,Eugene OR,168
+Medford OR,Eureka CA,193
+Medford OR,Redding CA,149
+Memphis TN,Nashville TN,212
+Memphis TN,Knoxville TN,391
+Memphis TN,Birmingham AL,245
+Memphis TN,Jackson MS,210
+Memphis TN,Little Rock AR,137
+Memphis TN,Fort Smith AR,286
+Memphis TN,Springfield MO,285
+Memphis TN,Jefferson City MO,340
+Memphis TN,St.Louis MO,285
+Memphis TN,Louisville KY,385
+Mesa AZ,Yuma AZ,191
+Mesa AZ,Tucson AZ,114
+Mesa AZ,Albuquerque NM,406
+Mesa AZ,Phoenix AZ,15
+Miami FL,Fort Lauderdale FL,30
+Miami FL,Fort Myers FL,152
+Midland TX,Odessa TX,23
+Midland TX,Lubbock TX,119
+Midland TX,Albuquerque NM,408
+Midland TX,Santa Fe NM,398
+Midland TX,Austin TX,317
+Midland TX,Laredo TX,409
+Milwaukee WI,Green Bay WI,117
+Milwaukee WI,Madison WI,79
+Milwaukee WI,Chicago IL,92
+Milwaukee WI,Springfield  IL,288
+Minneapolis MN,St. Paul MN,12
+Minneapolis MN,Rochester MN,87
+Minneapolis MN,Duluth MN,154
+Minneapolis MN,Grand Forks ND,315
+Minneapolis MN,Fargo ND,235
+Minneapolis MN,Pierre SD,387
+Minneapolis MN,Sioux Falls SD,237
+Minneapolis MN,Des Moines IA,245
+Missoula MT,Helena MT,113
+Missoula MT,Boise ID,364
+Missoula MT,Idaho Falls ID,312
+Missoula MT,Coeur d'Alene ID,165
+Mobile AL,Montgomery AL,169
+Mobile AL,Birmingham AL,259
+Mobile AL,Pensacola FL,60
+Mobile AL,Biloxi MS,63
+Mobile AL,Jackson MS,188
+Montgomery AL,Atlanta GA,161
+Montgomery AL,Columbus GA,83
+Montgomery AL,Tallahassee FL,205
+Montgomery AL,Pensacola FL,165
+Montgomery AL,Mobile AL,169
+Montgomery AL,Birmingham AL,95
+Montgomery AL,Jackson MS,247
+Montpelier VT,Concord NH,120
+Montpelier VT,Albany NY,158
+Montpelier VT,Augusta ME,180
+Montpelier VT,Portland ME,110
+Montpelier VT,Boston MA,180
+Montpelier VT,Providence RI,229
+Montpelier VT,Hartford CT,199
+Montpelier VT,Rochester NY,360
+Myrtle Beach SC,Raleigh NC,175
+Myrtle Beach SC,Greensboro NC,195
+Myrtle Beach SC,Charlotte NC,176
+Myrtle Beach SC,Columbia SC,140
+Myrtle Beach SC,Charleston SC,96
+Myrtle Beach SC,Atlanta GA,362
+Myrtle Beach SC,Columbus GA,465
+Nashville TN,Knoxville TN,180
+Nashville TN,Memphis TN,212
+Nashville TN,Birmingham AL,192
+Nashville TN,Atlanta GA,250
+Nashville TN,Frankfort KY,209
+Nashville TN,Louisville KY,175
+Nashville TN,St.Louis MO,305
+New Orleans LA,Baton Rouge LA,81
+New Orleans LA,Jackson MS,188
+New Orleans LA,Biloxi MS,93
+New Orleans LA,Houston TX,348
+New York City NY,Trenton NJ,61
+New York City NY,Hartford CT,118
+New York City NY,Albany NY,150
+New York City NY,Rochester NY,339
+New York City NY,Buffalo NY,374
+New York City NY,Harrisburg PA,171
+New York City NY,Erie PA,432
+Norfolk VA,Annapolis MD,208
+Norfolk VA,Washington DC,195
+Norfolk VA,Richmond VA,165
+Norfolk VA,Roanoke VA,240
+Norfolk VA,Raleigh NC,185
+Norfolk VA,Greensboro NC,236
+Oakland CA,Santa Monica CA,373
+Oakland CA,Sacramento CA,82
+Oakland CA,Eureka CA,276
+Oakland CA,San Francisci CA,12
+Oakland CA,San Jose CA,41
+Oakland CA,Fresno CA,175
+Odessa TX,El Paso TX,284
+Odessa TX,Las Cruces NM,329
+Odessa TX,Albuquerque NM,402
+Odessa TX,Santa Fe NM,393
+Odessa TX,Houston TX,516
+Odessa TX,Midland TX,408
+Ogden UT,Salt Lake City UT,38
+Ogden UT,Idaho Falls ID,179
+Ogden UT,Cheyenne WY,434
+Ogden UT,Casper WY,402
+Oklahoma City OK,Tulsa OK,126
+Oklahoma City OK,Wichita KS,161
+Olympia WA,Tacoma WA,31
+Olympia WA,Vancouver WA,106
+Omaha NE,Lincoln NE,59
+Omaha NE,Sioux Falls SD,181
+Omaha NE,Des Moines IA,134
+Orlando FL,Tallahassee FL,259
+Orlando FL,Jacksonville FL,140
+Orlando FL,Tampa FL,84
+Orlando FL,Fort Myers FL,159
+Orlando FL,Fort Lauderdale FL,210
+Pensacola FL,Tallahassee FL,197
+Pensacola FL,Columbus GA,245
+Pensacola FL,Mobile AL,60
+Pensacola FL,Montgomery AL,165
+Pensacola FL,Birmingham AL,253
+Philadelphia PA,Harrisburg PA,105
+Philadelphia PA,Erie PA,400
+Philadelphia PA,Pittsburgh PA,305
+Philadelphia PA,Trenton NJ,33
+Philadelphia PA,Albany NY,233
+Philadelphia PA,Rochester NY,340
+Philadelphia PA,Buffalo NY,360
+Philadelphia PA,Dover DE,82
+Philadelphia PA,Annapolis MD,125
+Philadelphia PA,Washington DC,139
+Phoenix AZ,Flagstaff AZ,144
+Phoenix AZ,Mesa AZ,19
+Phoenix AZ,Tucson AZ,113
+Phoenix AZ,Yuma AZ,184
+Phoenix AZ,Henderson NV,285
+Pierre SD,Sioux Falls SD,224
+Pierre SD,Rapid City SD,172
+Pierre SD,Bismarck ND,210
+Pierre SD,Fargo ND,333
+Pierre SD,Lincoln NE,393
+Pittsburgh PA,Harrisburg PA,203
+Pittsburgh PA,Erie PA,128
+Pittsburgh PA,Philadelphia PA,305
+Pittsburgh PA,Buffalo NY,215
+Pittsburgh PA,Rochester NY,280
+Pittsburgh PA,Columbus OH,185
+Pittsburgh PA,Charleston WV,228
+Pittsburgh PA,Annapolis MD,269
+Pittsburgh PA,Washington DC,246
+Pittsburgh PA,Dover DE,325
+Pittsburgh PA,Richmond VA,335
+Pittsburgh PA,Roanoke VA,335
+Portland ME,Augusta ME,56
+Portland ME,Concord NH,110
+Portland ME,Montpelier VT,160
+Portland OR,Eugene OR,110
+Portland OR,Boise ID,436
+Portland OR,Vancouver WA,10
+Portland OR,Salem OR,45
+Providence RI,Concord NH,116
+Providence RI,Montpelier VT,229
+Providence RI,Boston MA,51
+Providence RI,Hartford CT,73
+Providence RI,Albany NY,163
+Raleigh NC,Norfolk VA,185
+Raleigh NC,Richmond VA,155
+Raleigh NC,Roanoke VA,155
+Raleigh NC,Greensboro NC,77
+Raleigh NC,Charlotte NC,160
+Raleigh NC,Columbia SC,210
+Raleigh NC,Myrtle Beach SC,175
+Raleigh NC,Charleston SC,280
+Rapid City SD,Sioux Falls SD,347
+Rapid City SD,Casper WY,254
+Rapid City SD,Billings MT,318
+Rapid City SD,Scottsbluff NE,194
+Rapid City SD,Pierre SD,210
+Redding CA,San Jose CA,249
+Redding CA,Medford OR,149
+Redding CA,Carson City NV,227
+Redding CA,Reno NV,199
+Redding CA,Sacramento CA,162
+Redding CA,Eureka CA,147
+Reno NV,Las Vegas NV,439
+Reno NV,Virginia City NV,26
+Reno NV,Sacramento CA,132
+Reno NV,Redding CA,199
+Reno NV,Salt Lake City UT,518
+Reno NV,Carson City NV,32
+Richmond VA,Dover DE,200
+Richmond VA,Annapolis MD,135
+Richmond VA,Washington DC,110
+Richmond VA,Roanoke VA,165
+Richmond VA,Norfolk VA,93
+Richmond VA,Pittsburgh PA,335
+Richmond VA,Charleston WV,316
+Richmond VA,Columbus OH,477
+Richmond VA,Raleigh NC,155
+Richmond VA,Greensboro NC,190
+Riverside CA,Los Angeles CA,54
+Riverside CA,Yuma AZ,220
+Riverside CA,Las Vegas NV,395
+Riverside CA,San Diego CA,99
+Roanoke VA,Harrisburg PA,295
+Roanoke VA,Pittsburgh PA,335
+Roanoke VA,Washington DC,235
+Roanoke VA,Richmond VA,165
+Roanoke VA,Norfolk VA,240
+Roanoke VA,Raleigh NC,155
+Roanoke VA,Greensboro NC,105
+Roanoke VA,Charlotte NC,185
+Roanoke VA,Charleston WV,180
+Roanoke VA,Frankfort KY,380
+Roanoke VA,Knoxville TN,260
+Rochester MN,St. Paul MN,77
+Rochester MN,Minneapolis MN,87
+Rochester MN,Green Bay WI,267
+Rochester MN,Madison WI,205
+Rochester MN,Cedar Rapids IA,169
+Rochester MN,Des Moines IA,210
+Rochester MN,Sioux Falls SD,237
+Rochester MN,Pierre SD,425
+Rochester NY,Montpelier VT,360
+Rochester NY,Concord NH,371
+Rochester NY,Albany NY,226
+Rochester NY,Buffalo NY,77
+Rochester NY,New York City NY,339
+Rochester NY,Hartford CT,335
+Rochester NY,Erie PA,162
+Rochester NY,Harrisburg PA,260
+Rochester NY,Pittsburgh PA,280
+Rochester NY,Philadelphia PA,340
+Rochester NY,Trenton NJ,340
+Sacramento CA,Eureka CA,289
+Sacramento CA,Redding CA,162
+Sacramento CA,San Jose CA,120
+Sacramento CA,Fresno CA,169
+Sacramento CA,Los Angeles CA,384
+Sacramento CA,Oakland CA,82
+Sacramento CA,Santa Monica CA,385
+Sacramento CA,Beverly Hills CA,383
+Sacramento CA,Carson City NV,130
+Sacramento CA,Reno NV,132
+Salem OR,Portland OR,45
+Salem OR,Eugene OR,66
+Salt Lake City UT,Ogden UT,38
+Salt Lake City UT,Reno NV,518
+Salt Lake City UT,Cheyenne WY,439
+Salt Lake City UT,Casper WY,407
+San Antonio TX,Austin TX,80
+San Antonio TX,Laredo TX,157
+San Antonio TX,Corpus Christi TX,143
+San Antonio TX,Austin TX,80
+San Diego CA,Riverside CA,99
+San Diego CA,Yuma AZ,173
+San Diego CA,Los Angeles CA,120
+San Francisci CA,San Jose CA,48
+San Francisci CA,Oakland CA,12
+San Francisci CA,Eureka CA,271
+San Jose CA,Fresno CA,150
+San Jose CA,Los Angeles CA,340
+San Jose CA,Oakland CA,41
+San Jose CA,Santa Monica CA,340
+San Jose CA,Beverly Hills CA,338
+San Jose CA,Sacramento CA,120
+San Jose CA,Redding CA,249
+San Jose CA,San Francisci CA,48
+Santa Fe NM,Albuquerque NM,64
+Santa Fe NM,Midland TX,398
+Santa Fe NM,Odessa TX,393
+Santa Fe NM,Amarillo TX,279
+Santa Fe NM,Colorado Springs CO,322
+Santa Monica CA,Los Angeles CA,16
+Santa Monica CA,Sacramento CA,385
+Santa Monica CA,San Jose CA,340
+Santa Monica CA,Fresno CA,219
+Santa Monica CA,Oakland CA,373
+Savannah GA,Charleston SC,108
+Savannah GA,Columbia SC,155
+Savannah GA,Atlanta GA,248
+Savannah GA,Columbus GA,250
+Savannah GA,Tallahassee FL,258
+Savannah GA,Jacksonville FL,140
+Scottsbluff NE,Lincoln NE,398
+Scottsbluff NE,Denver CO,197
+Scottsbluff NE,Cheyenne WY,99
+Scottsbluff NE,Casper WY,176
+Scottsbluff NE,Rapid City SD,194
+Scottsbluff NE,Wichita KS,275
+Seattle WA,Tacoma WA,34
+Seattle WA,Spokane WA,279
+Shreveport LA,New Orleans LA,327
+Shreveport LA,Baton Rouge LA,247
+Shreveport LA,Dallas TX,188
+Shreveport LA,Jackson MS,221
+Sioux Falls SD,Rapid City SD,347
+Sioux Falls SD,Omaha NE,181
+Sioux Falls SD,Fargo ND,244
+Sioux Falls SD,Des Moines IA,283
+Sioux Falls SD,Lincoln NE,213
+Sioux Falls SD,Pierre SD,224
+Spokane WA,Seattle WA,279
+Spokane WA,Tacoma WA,292
+Spokane WA,Coeur d'Alene ID,34
+Springfield  IL,Madison WI,265
+Springfield  IL,Milwaukee WI,288
+Springfield  IL,Chicago IL,203
+Springfield  IL,Indianapolis IN,209
+Springfield  IL,St.Louis MO,96
+Springfield  IL,Jefferson City MO,193
+Springfield  IL,Kansas City MO,298
+Springfield  IL,Des Moines IA,298
+Springfield  IL,Cedar Rapids IA,254
+Springfield MO,Jefferson City MO,132
+Springfield MO,Kansas City MO,166
+Springfield MO,St.Louis MO,215
+Springfield MO,Topeka KS,223
+Springfield MO,Wichita KS,247
+Springfield MO,Memphis TN,285
+Springfield MO,Fort Smith AR,174
+Springfield MO,Little Rock AR,218
+Springfield MO,Tulsa OK,181
+St.Louis MO,Jefferson City MO,130
+St.Louis MO,Springfield MO,215
+St.Louis MO,Des Moines IA,349
+St.Louis MO,Springfield  IL,96
+St.Louis MO,Indianapolis IN,242
+St.Louis MO,Louisville KY,262
+St.Louis MO,Nashville TN,305
+St.Louis MO,Memphis TN,285
+St.Louis MO,Little Rock AR,347
+St. Paul MN,Fargo ND,246
+St. Paul MN,Grand Forks ND,326
+St. Paul MN,Minneapolis MN,12
+St. Paul MN,Duluth MN,151
+St. Paul MN,Rochester MN,77
+St. Paul MN,Escanaba MI,360
+St. Paul MN,Green Bay WI,271
+St. Paul MN,Madison WI,262
+Tacoma WA,Spokane WA,292
+Tacoma WA,Olympia WA,31
+Tacoma WA,Seattle WA,279
+Tallahassee FL,Atlanta GA,272
+Tallahassee FL,Savannah GA,140
+Tallahassee FL,Columbus GA,168
+Tallahassee FL,Jacksonville FL,166
+Tallahassee FL,Orlando FL,259
+Tallahassee FL,Tampa FL,275
+Tallahassee FL,Pensacola FL,197
+Tallahassee FL,Montgomery AL,205
+Tampa FL,Tallahassee FL,275
+Tampa FL,Jacksonville FL,200
+Tampa FL,Orlando FL,84
+Tampa FL,Fort Myers FL,125
+Tampa FL,Fort Lauderdale FL,247
+Topeka KS,Manhattan KS,58
+Topeka KS,Wichita KS,176
+Topeka KS,Kansas City MO,64
+Topeka KS,Omaha NE,163
+Topeka KS,Lincoln NE,168
+Trenton NJ,Philadelphia PA,33
+Trenton NJ,Harrisburg PA,125
+Trenton NJ,Erie PA,433
+Trenton NJ,New York City NY,61
+Trenton NJ,Buffalo NY,390
+Trenton NJ,Rochester NY,340
+Trenton NJ,Albany NY,195
+Tucson AZ,Yuma AZ,237
+Tucson AZ,Albuquerque NM,449
+Tucson AZ,Las Cruces NM,277
+Tucson AZ,Phoenix AZ,113
+Tulsa OK,Oklahoma City OK,126
+Tulsa OK,Wichita KS,175
+Tulsa OK,Topeka KS,219
+Tulsa OK,Dallas TX,258
+Vancouver WA,Olympia WA,106
+Vancouver WA,Portland OR,10
+Virginia City NV,Las Vegas NV,422
+Virginia City NV,Carson City NV,15
+Virginia City NV,Reno NV,26
+Washington DC,Dover DE,93
+Washington DC,Philadelphia PA,139
+Washington DC,Harrisburg PA,120
+Washington DC,Pittsburgh PA,246
+Washington DC,Annapolis MD,32
+Washington DC,Charleston WV,340
+Washington DC,Richmond VA,110
+Washington DC,Norfolk VA,195
+Washington DC,Roanoke VA,235
+Washington DC,Columbus OH,415
+Wichita KS,Manhattan KS,130
+Wichita KS,Kansas City MO,199
+Wichita KS,Springfield MO,247
+Wichita KS,Lincoln NE,275
+Wichita KS,Scottsbluff NE,556
+Wichita KS,Denver CO,519
+Wichita KS,Colorado Springs CO,490
+Wichita KS,Tulsa OK,175
+Wichita KS,Oklahoma City OK,161
+Wichita KS,Topeka KS,176
+Yuma AZ,Tucson AZ,237
+Yuma AZ,Henderson NV,279
+Yuma AZ,San Diego CA,173
+Yuma AZ,Riverside CA,220
+Yuma AZ,Phoenix AZ,184
